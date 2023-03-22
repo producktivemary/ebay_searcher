@@ -1,0 +1,31 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+www.ebay-kleinanzeigen.de	FALSE	/	TRUE	0	CSRF-TOKEN	98c30ba5-6813-42c5-998e-ba64c5595fe8
+www.ebay-kleinanzeigen.de	FALSE	/	FALSE	0	GCLB	CPW9wYXOy-SU0wE
+.ebay-kleinanzeigen.de	TRUE	/	FALSE	1702935936	_ga	GA1.2.1820529030.1625421310
+www.ebay-kleinanzeigen.de	FALSE	/	FALSE	0	__aaxsc	1
+www.ebay-kleinanzeigen.de	FALSE	/	FALSE	1656957314	overlayV21	seen
+www.ebay-kleinanzeigen.de	FALSE	/	TRUE	0	JSESSIONID	B5C760AFC64F62AD9BAB3239F12F0DBA-mc2.koeb46-30_i01_1001
+.ebay-kleinanzeigen.de	TRUE	/	FALSE	1671424715	liberty	%7B%22gdprPropertiesForUser%22%3A%7B%22isGdprFullConsentGiven%22%3Atrue%7D%7D
+www.ebay-kleinanzeigen.de	FALSE	/	FALSE	0	route_97385225_bd99_4ddb_a1c6_c108f3714d67	d3d99b3d7a1aebd181b8271f5243ba76
+fdts.ebay-kleinanzeigen.de	FALSE	/	TRUE	1793122486	thx_guid	a0c79b254e3e47eeb6bd3ac3ac547ee6
+.ebay-kleinanzeigen.de	TRUE	/	FALSE	1640193518	iom_consent	0103ff03ff&1637774318473
+.ebay-kleinanzeigen.de	TRUE	/	FALSE	1669927339	ekConsentBucketTcf2	full2-exp
+.ebay-kleinanzeigen.de	TRUE	/	FALSE	1669927339	ekConsentTcf2	{%22customVersion%22:3%2C%22encodedConsentString%22:%22CPQjq2nPQjq2nE1ABADEB3CgAP_AAAAAAAYgIZNf_X__b3_n-_79__t0eY1f9_7_v-0zjhfdt-8N2f_X_L8X_2M7vF36pr4KuR4ku3bBIQdtHOncTUmx6olVrzPsbk2cr7NKJ7Pkmnsbe2dYGH9_n93T_ZKZ7______7________________________-_____9______________________wAAAElIAMAAQQyJQAYAAghkQgAwABBDIdABgACCGQyADAAEEMhUAGAAIIZCIAMAAQQyDQAYAAghkEgAwABBDIA.YAAAAAAAAigA%22%2C%22googleConsentGiven%22:true%2C%22consentInterpretation%22:{%22googleAdvertisingFeaturesAllowed%22:true%2C%22googleAnalyticsAllowed%22:true%2C%22infonlineAllowed%22:true}}
+gateway.ebay-kleinanzeigen.de	FALSE	/	FALSE	0	route_d6bfec5b_c9f3_4715_b3e6_f05b02bf3b58	6e454b6830c4cd3a1893c012d9ac2a82
+gateway.ebay-kleinanzeigen.de	FALSE	/	FALSE	0	GCLB	CMbthpSj352ndg
+.ebay-kleinanzeigen.de	TRUE	/	FALSE	1639950336	_gid	GA1.2.680045761.1639084965
+.ebay-kleinanzeigen.de	TRUE	/	FALSE	0	rbzsessionid	52aadbbefd639bd48b221ef572e49641
+.ebay-kleinanzeigen.de	TRUE	/	FALSE	0	rbzid	XFJthCGxtKvX0e/wey0i6CRMIcmsqJIwdn4xsxLUcYTFy2A+fhL0y8GDg2rZuq+3HoEIS1SCgF0KEodMD+XJRQjEJ2c0t2XJTrOUFcofSohCSIuJMsgVjcqJcmhOxl+vHy+rQ3R2jXGg9XJET+gl8ZJX7e5gCqQmSN2nIFa7cN1OtXGcv9fJRaPcoqtiEIcCynxm0w+YDd+SL1zzZMqnGY0MzChBHw2ILir5+GTVOc8K8pFfyUeutKNf7cZ4ey7JhaBFXyNuU7v7/iaFsd264/cK1JLc0axM/CRvtfRVeD3VuaJFrFIhbEqmCQB1t4imvucs3qTZa0Q1qg52BtS45w==
+www.ebay-kleinanzeigen.de	FALSE	/	TRUE	1655415418	wl	%7B%22l%22%3A%22%22%7D
+.ebay-kleinanzeigen.de	TRUE	/	FALSE	1653328510	ioam2018	001bb45f6fe05bfe460e1f5fd:1653328510319:1625421310319:.ebay-kleinanzeigen.de:811:ebaykanz:ebayK-1:noevent:1639863936591:g8xaz6
+www.ebay-kleinanzeigen.de	FALSE	/	TRUE	0	aasd	8%7C1639863419398
+.ebay-kleinanzeigen.de	TRUE	/	FALSE	1674027941	cto_bundle	1v1TKF93QnNoSWElMkJZcUd4TTA0U1VUek1DSVZ1WEJPdzQ1UlVmR0ZwQWJjOTlXR1BNWXEyNDM3bkwwT21LNk9HZGF1amRrY0xka2VMUWszblBnejJNNzBLenpJdjB3THpGajltdEZTbUxqVjRWVTk5S0UzbHFQdVpuMEYyVWhMbjhrdVY0SGIlMkYwbzhpQ1ElMkIwaEtzRW40SDJIMnJXS0d5S0xnVEtBZHBySkxqQm52MEklM0Q
+www.ebay-kleinanzeigen.de	FALSE	/	FALSE	1671424714	clientId	undefined
+www.ebay-kleinanzeigen.de	FALSE	/	TRUE	1647643901	uh	%7B%22sh%22%3A%22k%3Dlogin%3A%3Al%3D984%26att%3Dwohnung_mieten.qm_d%4062%2C%26c%3D203%26wohnung_mieten.qm_d%3D62%2C%26r%3D20%3A%3Al%3D984%26att%3Dwohnung_mieten.qm_d%4063%2C%26c%3D203%26wohnung_mieten.qm_d%3D63%2C%26r%3D20%3A%3Al%3D984%26att%3Dwohnung_mieten.qm_d%4065.00%2C%26c%3D203%26wohnung_mieten.qm_d%3D65.00%2C%26r%3D20%3A%3Al%3D4513%26k%3Draumteiler%26p%3D2%26r%3D20%3A%3Al%3D16760%26c%3D203%22%7D
+www.ebay-kleinanzeigen.de	FALSE	/	TRUE	1655435717	refresh_token	RT-323722-koMGBEUH27RZvCDvPyVZGWQwtqyUu44w
+www.ebay-kleinanzeigen.de	FALSE	/	TRUE	0	sc	%7B%22va%22%3A%221962336084%2C-36453%2C627336%2C-27975330%2C28498075%2C532016%2C54989%2C-52236%2C477693%2C-223704%2C388135%2C34708%2C282114%2C-17738%2C-576173%2C-833964%2C-1541818%2C3811157%2C-29849815%2C29919808%22%7D
+www.ebay-kleinanzeigen.de	FALSE	/	TRUE	1639974252	access_token	eyJhbGciOiJSUzI1NiIsImtpZCI6ImRlLWViYXlrLXNpZy0yMDIxLTEwLTA4VDA0OjUxOjExLjIyMzYyOVoifQ.eyJhdWQiOiJlYmF5a193ZWJfZmJVUnlES2ciLCJpc3MiOiJodHRwczovL2lkLmViYXkta2xlaW5hbnplaWdlbi5kZS9vaWRjIiwianRpIjoiVEdULTMyMzc2Mi1KMkJkeEgxdTItUGl0T0Rob0NUdlg1T2U3eVFHLXNlRDdqM2ZZNDB3TWxOMmdVazktOWQ2SXA1V2kyMU5mRmpxOHhNLWNpcy1hdXRoLTVkOTc5OTdkNzgtbDRuNjk7QVQtNTIxNzE4OC14Tm8wSjNkTVNkR2E0YlBUZEtGWFc2SnRtdDBaaUp0QiIsImlhdCI6MTYzOTg4Nzg1MiwiZXhwIjoxNjM5ODg5NjUyLCJzdWIiOiI5NGVhNWQ1YS1jNjhlLTRhOGYtYjJhNS00ZGRmYTlhZGI1N2IiLCJhenAiOiJlYmF5a193ZWJfZmJVUnlES2ciLCJzY29wZSI6Im9wZW5pZCBwcm9maWxlIHVybjplYmF5LWtsZWluYW56ZWlnZW46dXNlciIsImVjZzppZDpibG9ja2VkIjpmYWxzZSwicHJlZmVycmVkX3VzZXJuYW1lIjoiNDI3NDU5NjkifQ.GX-N8kJUIiwv7BSxg7KbJaneECqPbANzm-5VmOuKlBIQLiHuA5nNpT7xpTIDzIC1SgZdfzc_-Av_p0Wgk_8AXfC6qGi7yjXxsQy_cUEydWpAwDedP2poyTEw_1oDaPP7MQxjkciLrx2uWIkGN0cxfF83Cz1FWBa3zqr7M6kxrfqjSSvx7FxkJhRH_1VAZ2bQGmApa9CIR4heK1wLiovQKS8X8H1OQNxoz4kIfEwefOF-mMnWa598SYOFyDG3wEszGs7AMSIvijxE-_dQH1TDHOBjZmfaOFaCBv-e6hDYJ0fF7R1UiTNL1yIgxfJ5Anj8i4UHfP-bcW6NB7RI7HxqbA
+www.ebay-kleinanzeigen.de	FALSE	/	TRUE	1655440712	up	%7B%22ln%22%3A%22256221016%22%2C%22lln%22%3A%22896defd5-7ceb-4d2d-9b7e-59ae7026e307%22%2C%22llstv%22%3A%2297-js-errorlog%3DA%7CBLN-18532_highlight%3DA%7CBLN-19600-landing-page%3DB%7CBLN-18275-lazy-load-image%3DA%7Ccomplex-password-change%3DA%7CDesktop_Test%3DA%7CBLN-20169_saved_search_RO%3DA%7CBLN-18901-company-page%3DB%7Cperformance-test-desktop%3DA%7CBLN-1950-online-register%3DB%7CEKMO-11%3DB%7Cga-behind-consent%3DB%7Crebranding-m2www%3DA%7Cconsent-banner%3DA%7CBLN-18221_srp_rebrush_ads%3DB%7CBLN-19952-set-branding%3DB%7CBLN-19787-biz-upselling%3DB%7Cprebid-update%3DA%7Cliberty_gcp_desktop%3DA%7CEBAYKAD-2252_group-assign%3DE%22%2C%22ls%22%3A%22l%3D0%22%2C%22saSe%22%3A%22%22%2C%22va%22%3A%221962336084%2C-36453%2C627336%2C-27975330%2C28498075%2C532016%2C54989%2C-52236%2C477693%2C-223704%2C388135%2C34708%2C282114%2C-593911%2C-833964%2C-1541818%2C2951955%2C859202%2C-29849815%2C29919808%22%2C%22vapwrnscrty%22%3A1%7D
